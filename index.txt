@@ -1,2 +1,2 @@
 merhaba
-
+remote masterdan gelen güncelleme
