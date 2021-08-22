@@ -1,2 +1,3 @@
 merhaba
 remote masterdan gelen güncelleme
+ikinci güncelleme
